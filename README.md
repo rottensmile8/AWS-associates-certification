@@ -1,3 +1,3 @@
 # AWS-associates-certification
 AWS associates solution architect certification crash course. 
-Updated one!
+Updated one! (Using VS code)
