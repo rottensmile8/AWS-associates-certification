@@ -1,3 +1,3 @@
 # AWS-associates-certification
-AWS associates solution architect certification crash course.
+AWS associates solution architect certification crash course. /n
 Updated one!
